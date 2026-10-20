@@ -1,0 +1,501 @@
+job_id,job_title,company,location,skills,posted_date,job_type,salary_min_lpa,salary_max_lpa,exp_min_years,exp_max_years
+JOB-0396,Data Analyst,Accenture,Pune,"Docker, Git, Pandas, Spark, Tableau",2026-07-05,Internship,,,6.0,10.0
+JOB-0190,Data Analyst,Startup Labs,Pune,"PostgreSQL, Power BI, SQL, Spark",2026-08-01,Full-time,6.0,8.0,,
+JOB-0163,Business Analyst,Capgemini,Hyderabad,"AWS, Excel, Pandas, PostgreSQL, SQL",2026-09-02,Full-time,,,1.0,3.0
+JOB-0102,BI Developer,Persistent Systems,Nagpur,"AWS, Pandas, Power BI, Python, Spark",2026-08-15,Full-time,6.0,6.0,0.0,1.0
+JOB-0362,Senior Data Analyst,DataNova Pvt Ltd,Bengaluru,"Airflow, PostgreSQL",2026-08-31,Unknown,,,0.0,1.0
+JOB-0309,Business Analyst,Startup Labs,Pune,"PostgreSQL, Power BI, Tableau",2026-08-31,Full-time,,,5.0,
+JOB-0133,Python Developer,Cognizant,Bengaluru,"Docker, Git",2026-08-12,Internship,12.0,15.0,3.0,3.0
+JOB-0004,ETL Developer,Startup Labs,Bengaluru,"Git, Python",2026-09-21,Contract,6.0,6.0,5.0,
+JOB-0465,Junior Data Engineer,Wipro,Pune,"Airflow, Git",2026-08-09,Contract,,,1.0,3.0
+JOB-0119,ETL Developer,TCS,Pune,"Docker, Git, Tableau",2026-09-10,Full-time,6.0,6.0,3.0,3.0
+JOB-0066,Junior Data Engineer,Capgemini,Remote,"Airflow, Power BI, SQL, Spark",2026-08-17,Internship,12.0,15.0,6.0,10.0
+JOB-0342,BI Developer,Unknown,Pune,"PostgreSQL, Python, Tableau",,Unknown,12.0,15.0,0.0,1.0
+JOB-0434,Senior Data Analyst,Cognizant,Hyderabad,"AWS, Airflow, Docker, Git, PostgreSQL",2026-09-15,Full-time,20.0,20.0,1.0,3.0
+JOB-0314,Python Developer,Wipro,Bengaluru,"PostgreSQL, Tableau",2026-08-14,Full-time,20.0,20.0,5.0,
+JOB-0247,Data Analyst,Unknown,Pune,"AWS, Docker, Power BI, Python",2026-08-18,Contract,6.0,6.0,0.0,1.0
+JOB-0052,Python Developer,Persistent Systems,Pune,"AWS, Excel, Power BI, SQL, Tableau",2026-09-10,Unknown,20.0,20.0,5.0,
+JOB-0284,Business Analyst,Persistent Systems,Mumbai,"Docker, Excel, Git, Tableau",2026-08-08,Full-time,,,6.0,10.0
+JOB-0386,Data Analyst,Cognizant,Bengaluru,"SQL, Spark",2026-09-22,Contract,4.5,4.5,0.0,0.0
+JOB-0116,Data Analyst,Accenture,Pune,"Airflow, Power BI, Python",2026-08-15,Full-time,8.0,8.0,5.0,
+JOB-0139,BI Developer,TCS,Mumbai,"Airflow, Excel, Pandas",2026-08-13,Internship,20.0,20.0,2.0,4.0
+JOB-0245,BI Developer,Tech Mahindra,Pune,"Airflow, Pandas",,Internship,6.0,6.0,0.0,0.0
+JOB-0282,Senior Data Analyst,Startup Labs,Bengaluru,"Docker, Power BI, Tableau",2026-07-08,Full-time,6.0,6.0,0.0,0.0
+JOB-0090,ETL Developer,Zensar,Remote,"AWS, Excel, Git, SQL",2026-08-18,Full-time,6.0,6.0,5.0,
+JOB-0281,Senior Data Analyst,Infosys,Bengaluru,"PostgreSQL, Python",2026-09-21,Unknown,,,0.0,0.0
+JOB-0319,Business Analyst,Zensar,Nagpur,"Excel, Git, PostgreSQL, Power BI, Python",2026-07-04,Full-time,6.0,6.0,6.0,10.0
+JOB-0436,Data Analyst,TCS,Pune,"Excel, Pandas, Power BI, Python, Tableau",2026-09-13,Full-time,6.0,6.0,0.0,0.0
+JOB-0091,Data Engineer,Zensar,Pune,"Excel, Git",2026-07-21,Unknown,6.0,6.0,0.0,0.0
+JOB-0311,Python Developer,Accenture,Pune,"AWS, Python, Spark",2026-09-27,Unknown,,,5.0,
+JOB-0217,Business Analyst,Persistent Systems,Nagpur,"Airflow, Python, SQL",,Contract,,,3.0,3.0
+JOB-0446,Python Developer,Wipro,Mumbai,"Pandas, PostgreSQL, Python, Spark",2026-07-12,Full-time,6.0,6.0,0.0,1.0
+JOB-0272,Data Analyst,TCS,Mumbai,"AWS, Docker, Excel, Tableau",2026-08-03,Full-time,6.0,8.0,,
+JOB-0024,Data Analyst,Cognizant,Bengaluru,"Excel, Git, Pandas, Python, Tableau",2026-08-31,Full-time,,,0.0,0.0
+JOB-0271,Data Analyst,Persistent Systems,Bengaluru,"AWS, Docker, PostgreSQL, Power BI",2026-09-09,Full-time,,,5.0,
+JOB-0351,Senior Data Analyst,TCS,Pune,"Pandas, Power BI",2026-07-27,Contract,,,6.0,10.0
+JOB-0189,Machine Learning Engineer,Tech Mahindra,Pune,"Airflow, Excel, Power BI, Python, Spark",2026-08-27,Internship,8.0,8.0,0.0,0.0
+JOB-0014,Data Engineer,Tech Mahindra,Pune,"Airflow, PostgreSQL, Power BI, SQL, Spark",2026-08-17,Unknown,,,0.0,0.0
+JOB-0098,Junior Data Engineer,Persistent Systems,Mumbai,"Excel, PostgreSQL, SQL",2026-09-19,Unknown,,,5.0,
+JOB-0155,ETL Developer,DataNova Pvt Ltd,Remote,"Pandas, PostgreSQL, Power BI",2026-08-31,Unknown,,,3.0,3.0
+JOB-0166,Junior Data Engineer,TCS,Pune,"Docker, Pandas, PostgreSQL, Python, SQL",2026-09-30,Full-time,,,6.0,10.0
+JOB-0033,Python Developer,Persistent Systems,Pune,"AWS, Airflow, Git, Pandas, PostgreSQL",2026-07-23,Unknown,,,0.0,0.0
+JOB-0221,Senior Data Analyst,DataNova Pvt Ltd,Pune,"Excel, Git, Pandas, Power BI, SQL",2026-09-20,Unknown,20.0,20.0,2.0,4.0
+JOB-0391,Data Analyst,Cognizant,Pune,"Docker, PostgreSQL, Spark",2026-08-11,Full-time,12.0,15.0,0.0,1.0
+JOB-0425,Data Analyst,Persistent Systems,Pune,"Docker, Excel, PostgreSQL",,Contract,6.0,6.0,,
+JOB-0345,Machine Learning Engineer,DataNova Pvt Ltd,Mumbai,"Git, Pandas, SQL, Spark",2026-07-16,Unknown,8.0,8.0,0.0,1.0
+JOB-0203,Junior Data Engineer,DataNova Pvt Ltd,Mumbai,"AWS, Power BI, Python",2026-08-03,Internship,8.0,8.0,0.0,1.0
+JOB-0056,Data Analyst,Cognizant,Pune,"AWS, Airflow, PostgreSQL, Python, Spark",2026-08-16,Unknown,6.0,6.0,2.0,4.0
+JOB-0329,Data Analyst,Persistent Systems,Mumbai,"Airflow, Power BI",2026-09-05,Internship,,,5.0,
+JOB-0051,Data Analyst,Wipro,Bengaluru,"Airflow, Spark",2026-09-02,Unknown,8.0,8.0,0.0,0.0
+JOB-0323,Senior Data Analyst,Wipro,Pune,"Airflow, Pandas, Tableau",2026-07-31,Internship,6.0,8.0,0.0,1.0
+JOB-0026,Data Engineer,Tech Mahindra,Mumbai,"Git, Power BI, Python",2026-09-23,Internship,12.0,15.0,5.0,
+JOB-0381,Data Engineer,Zensar,Bengaluru,"Excel, Tableau",2026-09-30,Full-time,6.0,6.0,6.0,10.0
+JOB-0328,Python Developer,Infosys,Mumbai,"Spark, Tableau",2026-09-08,Contract,8.0,8.0,0.0,0.0
+JOB-0493,Data Analyst,Unknown,Nagpur,"Docker, Git, Pandas, Python, Tableau",2026-08-05,Unknown,20.0,20.0,6.0,10.0
+JOB-0413,Senior Data Analyst,Infosys,Mumbai,"AWS, Excel, Git, Power BI, SQL",2026-07-31,Full-time,8.0,8.0,5.0,
+JOB-0383,Python Developer,Infosys,Nagpur,"Python, Spark",2026-09-09,Unknown,20.0,20.0,0.0,1.0
+JOB-0464,Senior Data Analyst,Capgemini,Mumbai,"Docker, Git, Power BI, Python",2026-07-18,Full-time,6.0,6.0,,
+JOB-0448,ETL Developer,Tech Mahindra,Mumbai,"Excel, Power BI",2026-07-22,Full-time,6.0,6.0,0.0,0.0
+JOB-0402,Machine Learning Engineer,Cognizant,Pune,"Airflow, Docker, Git, Spark",2026-07-18,Internship,12.0,15.0,2.0,4.0
+JOB-0275,Data Analyst,Cognizant,Nagpur,"Git, Pandas",2026-09-17,Unknown,6.0,6.0,5.0,
+JOB-0147,Data Engineer,Wipro,Pune,"Git, Spark",2026-09-23,Contract,6.0,6.0,2.0,4.0
+JOB-0432,Data Engineer,Tech Mahindra,Pune,"Git, SQL, Tableau",2026-07-04,Full-time,8.0,8.0,,
+JOB-0257,Python Developer,Capgemini,Mumbai,"Airflow, PostgreSQL, SQL",2026-09-23,Full-time,4.5,4.5,0.0,1.0
+JOB-0041,Machine Learning Engineer,Capgemini,Mumbai,"Docker, SQL, Tableau",2026-07-21,Full-time,6.0,6.0,2.0,4.0
+JOB-0325,Junior Data Engineer,Startup Labs,Pune,"AWS, Git, Spark, Tableau",2026-09-08,Unknown,,,3.0,3.0
+JOB-0474,Data Analyst,Wipro,Pune,"Airflow, Git, Power BI, SQL",2026-07-19,Unknown,8.0,8.0,2.0,4.0
+JOB-0244,Python Developer,Tech Mahindra,Pune,"AWS, Power BI, SQL, Spark, Tableau",2026-09-12,Internship,20.0,20.0,2.0,4.0
+JOB-0260,Data Analyst,Accenture,Hyderabad,"Airflow, Git, SQL",2026-07-30,Contract,,,,
+JOB-0083,Business Analyst,Startup Labs,Bengaluru,"Excel, Tableau",,Full-time,6.0,8.0,3.0,3.0
+JOB-0249,Senior Data Analyst,Wipro,Mumbai,"Excel, PostgreSQL, Power BI",2026-09-10,Unknown,6.0,8.0,5.0,
+JOB-0222,Senior Data Analyst,Zensar,Pune,"Docker, Python, SQL, Tableau",2026-08-09,Contract,6.0,6.0,2.0,4.0
+JOB-0218,Data Analyst,DataNova Pvt Ltd,Pune,"Git, Pandas, Python",2026-09-13,Internship,6.0,6.0,1.0,3.0
+JOB-0114,Data Analyst,Capgemini,Bengaluru,"Airflow, PostgreSQL, Power BI, Tableau",2026-09-14,Full-time,8.0,8.0,3.0,3.0
+JOB-0341,Senior Data Analyst,Accenture,Mumbai,"AWS, Docker, Pandas, PostgreSQL, Power BI",2026-08-30,Contract,6.0,6.0,,
+JOB-0471,Machine Learning Engineer,Capgemini,Mumbai,"Git, Spark, Tableau",2026-07-17,Full-time,6.0,6.0,2.0,4.0
+JOB-0233,BI Developer,Cognizant,Remote,"Git, Pandas, PostgreSQL, Python, Tableau",2026-07-31,Full-time,6.0,6.0,0.0,1.0
+JOB-0214,BI Developer,Persistent Systems,Hyderabad,"Pandas, Spark",2026-07-31,Full-time,,,5.0,
+JOB-0489,Senior Data Analyst,Zensar,Pune,"Airflow, Excel, Pandas, Spark",2026-07-09,Full-time,4.5,4.5,3.0,3.0
+JOB-0188,BI Developer,Capgemini,Pune,"AWS, Excel, Pandas, Tableau",2026-07-06,Full-time,,,3.0,3.0
+JOB-0335,Machine Learning Engineer,Wipro,Pune,"AWS, Pandas, SQL",2026-07-06,Full-time,4.5,4.5,1.0,3.0
+JOB-0237,Business Analyst,Cognizant,Pune,"Excel, PostgreSQL, Python, Spark",2026-07-11,Internship,12.0,15.0,2.0,4.0
+JOB-0160,BI Developer,Capgemini,Nagpur,"Git, SQL, Tableau",2026-08-14,Full-time,4.5,4.5,5.0,
+JOB-0360,Business Analyst,Startup Labs,Mumbai,"AWS, Airflow, Excel, Git, Power BI",2026-09-30,Full-time,6.0,6.0,,
+JOB-0238,Machine Learning Engineer,Infosys,Hyderabad,"Docker, Excel, Git",2026-07-16,Unknown,6.0,8.0,6.0,10.0
+JOB-0180,Data Analyst,Capgemini,Bengaluru,"AWS, Airflow, Docker, Excel, PostgreSQL",2026-09-08,Full-time,6.0,6.0,,
+JOB-0290,Senior Data Analyst,Accenture,Hyderabad,"Git, PostgreSQL, Spark",2026-09-22,Full-time,12.0,15.0,3.0,3.0
+JOB-0423,Junior Data Engineer,Wipro,Pune,"Airflow, Docker, Excel, SQL",2026-08-19,Full-time,4.5,4.5,0.0,1.0
+JOB-0061,BI Developer,Tech Mahindra,Remote,"Airflow, Excel, Python",2026-08-06,Full-time,,,,
+JOB-0236,Python Developer,Cognizant,Remote,"AWS, Airflow, SQL, Spark",2026-07-31,Contract,6.0,6.0,3.0,3.0
+JOB-0479,BI Developer,Cognizant,Remote,"AWS, PostgreSQL, Tableau",2026-07-16,Unknown,,,2.0,4.0
+JOB-0352,Business Analyst,Wipro,Remote,"AWS, Docker, Git, Python, Tableau",2026-09-06,Internship,20.0,20.0,0.0,1.0
+JOB-0444,Machine Learning Engineer,Zensar,Mumbai,"Python, SQL, Tableau",2026-09-23,Full-time,6.0,6.0,6.0,10.0
+JOB-0246,Data Engineer,Wipro,Bengaluru,"Docker, Excel",2026-08-11,Contract,6.0,6.0,6.0,10.0
+JOB-0317,Data Engineer,Startup Labs,Hyderabad,"AWS, Airflow, Pandas, PostgreSQL",2026-08-14,Unknown,,,0.0,0.0
+JOB-0486,BI Developer,DataNova Pvt Ltd,Pune,"Pandas, Python",2026-08-17,Full-time,8.0,8.0,2.0,4.0
+JOB-0370,Data Analyst,Zensar,Bengaluru,"Docker, Pandas, PostgreSQL, Python, SQL",2026-08-14,Full-time,20.0,20.0,0.0,0.0
+JOB-0121,Python Developer,Accenture,Pune,"Airflow, Git, Power BI, Spark, Tableau",2026-09-11,Contract,20.0,20.0,3.0,3.0
+JOB-0469,ETL Developer,Capgemini,Hyderabad,"PostgreSQL, Spark, Tableau",2026-07-23,Unknown,,,1.0,3.0
+JOB-0377,Data Analyst,Capgemini,Hyderabad,"Docker, Excel, Pandas, SQL, Tableau",2026-09-20,Internship,,,0.0,0.0
+JOB-0110,BI Developer,Wipro,Nagpur,"Git, PostgreSQL, SQL, Spark",2026-08-21,Unknown,,,1.0,3.0
+JOB-0146,Senior Data Analyst,Accenture,Mumbai,"PostgreSQL, Python, Tableau",2026-07-24,Full-time,,,0.0,0.0
+JOB-0165,Junior Data Engineer,TCS,Pune,"Excel, Git, Pandas, PostgreSQL, Spark",2026-10-01,Internship,12.0,15.0,0.0,0.0
+JOB-0174,Data Engineer,Capgemini,Nagpur,"Airflow, Python, SQL, Tableau",2026-09-21,Full-time,20.0,20.0,0.0,0.0
+JOB-0389,BI Developer,Startup Labs,Hyderabad,"Docker, Excel, Python",2026-08-05,Full-time,6.0,8.0,2.0,4.0
+JOB-0031,Data Analyst,Zensar,Bengaluru,"Git, Power BI",2026-09-06,Full-time,20.0,20.0,1.0,3.0
+JOB-0023,Machine Learning Engineer,Zensar,Pune,"Excel, Git, Tableau",2026-08-08,Full-time,6.0,8.0,1.0,3.0
+JOB-0279,Machine Learning Engineer,TCS,Remote,"AWS, Pandas",2026-07-06,Internship,4.5,4.5,0.0,1.0
+JOB-0032,Python Developer,TCS,Nagpur,"Airflow, Excel, Power BI, Python, Spark",2026-09-03,Full-time,,,5.0,
+JOB-0358,Senior Data Analyst,Accenture,Remote,"Excel, Pandas, Python, Spark",2026-07-12,Full-time,8.0,8.0,0.0,0.0
+JOB-0021,Data Engineer,Wipro,Nagpur,"AWS, Git",2026-09-18,Internship,,,3.0,3.0
+JOB-0487,Data Analyst,Unknown,Bengaluru,"Excel, Git, Pandas, Spark",2026-08-29,Internship,4.5,4.5,,
+JOB-0053,Business Analyst,Tech Mahindra,Pune,"AWS, Airflow, Docker, Git, Tableau",2026-08-07,Internship,,,3.0,3.0
+JOB-0274,BI Developer,Capgemini,Pune,"Git, Pandas, PostgreSQL",2026-07-14,Unknown,6.0,6.0,5.0,
+JOB-0229,ETL Developer,Accenture,Hyderabad,"Excel, Python, SQL, Spark, Tableau",2026-08-05,Full-time,,,5.0,
+JOB-0363,Data Analyst,Accenture,Hyderabad,"Airflow, Docker, Spark, Tableau",2026-08-25,Unknown,6.0,8.0,5.0,
+JOB-0371,Data Analyst,Wipro,Pune,"AWS, Git, Power BI, Python, SQL",2026-07-05,Internship,12.0,15.0,1.0,3.0
+JOB-0057,Python Developer,Persistent Systems,Pune,"Airflow, PostgreSQL, Python, SQL",2026-08-23,Contract,,,0.0,0.0
+JOB-0460,Junior Data Engineer,TCS,Pune,"Airflow, Docker, Git, Power BI, Tableau",2026-07-24,Contract,20.0,20.0,6.0,10.0
+JOB-0003,Data Analyst,Cognizant,Pune,"Pandas, PostgreSQL",2026-08-04,Full-time,8.0,8.0,,
+JOB-0497,Data Analyst,Cognizant,Nagpur,"AWS, Airflow, Git",2026-08-07,Internship,20.0,20.0,5.0,
+JOB-0059,Data Engineer,Accenture,Remote,"AWS, Pandas, Spark, Tableau",2026-08-24,Unknown,6.0,6.0,2.0,4.0
+JOB-0382,Data Analyst,Cognizant,Bengaluru,"Docker, PostgreSQL, Tableau",2026-08-23,Full-time,6.0,6.0,3.0,3.0
+JOB-0254,Data Analyst,TCS,Pune,"Airflow, PostgreSQL, Python, SQL, Tableau",2026-08-25,Internship,20.0,20.0,5.0,
+JOB-0480,Senior Data Analyst,Infosys,Pune,"Excel, Git, Power BI, Python, Spark",2026-09-21,Full-time,20.0,20.0,0.0,0.0
+JOB-0451,BI Developer,TCS,Pune,"AWS, PostgreSQL, Power BI, Python, SQL",,Internship,6.0,8.0,6.0,10.0
+JOB-0470,ETL Developer,DataNova Pvt Ltd,Nagpur,"AWS, Docker, Git, Spark",2026-08-16,Full-time,6.0,6.0,6.0,10.0
+JOB-0243,ETL Developer,Wipro,Hyderabad,"Pandas, Power BI, Tableau",2026-08-20,Internship,6.0,6.0,2.0,4.0
+JOB-0075,Data Engineer,DataNova Pvt Ltd,Pune,"Excel, Pandas, Power BI",2026-09-13,Internship,8.0,8.0,5.0,
+JOB-0450,ETL Developer,Cognizant,Pune,"Excel, Power BI",2026-08-23,Full-time,12.0,15.0,0.0,1.0
+JOB-0440,BI Developer,Cognizant,Bengaluru,"Excel, Pandas, PostgreSQL, Spark",2026-08-26,Contract,4.5,4.5,0.0,1.0
+JOB-0490,Data Engineer,Persistent Systems,Pune,"Airflow, Excel, SQL, Spark",2026-08-17,Contract,6.0,8.0,6.0,10.0
+JOB-0081,Senior Data Analyst,Accenture,Pune,"Pandas, Spark",2026-09-25,Internship,4.5,4.5,1.0,3.0
+JOB-0262,Senior Data Analyst,Infosys,Pune,"Airflow, Git, Pandas, PostgreSQL, SQL",,Internship,,,1.0,3.0
+JOB-0027,Machine Learning Engineer,Startup Labs,Bengaluru,"Excel, Tableau",2026-07-17,Internship,6.0,6.0,0.0,1.0
+JOB-0205,ETL Developer,Persistent Systems,Pune,"AWS, Power BI",2026-07-05,Full-time,6.0,8.0,,
+JOB-0294,Business Analyst,Startup Labs,Pune,"Airflow, Docker, Excel, Git, Power BI",2026-07-19,Full-time,8.0,8.0,5.0,
+JOB-0369,Data Analyst,Startup Labs,Mumbai,"Docker, Git",,Contract,6.0,8.0,0.0,0.0
+JOB-0482,Business Analyst,Infosys,Bengaluru,"Airflow, Power BI",,Full-time,20.0,20.0,5.0,
+JOB-0353,Data Analyst,Infosys,Pune,"Python, SQL, Spark, Tableau",2026-07-28,Internship,,,3.0,3.0
+JOB-0109,Junior Data Engineer,Unknown,Hyderabad,"Git, Pandas, Python, Tableau",2026-08-07,Contract,6.0,6.0,3.0,3.0
+JOB-0015,Data Analyst,Startup Labs,Pune,"Docker, Git, Power BI, SQL",2026-09-08,Full-time,6.0,8.0,,
+JOB-0148,Business Analyst,Infosys,Pune,"AWS, Excel, PostgreSQL, Power BI, Python",2026-07-20,Unknown,6.0,8.0,,
+JOB-0115,Python Developer,Startup Labs,Mumbai,"AWS, PostgreSQL",2026-09-11,Unknown,20.0,20.0,1.0,3.0
+JOB-0408,Business Analyst,Tech Mahindra,Pune,"Git, Python",2026-07-04,Full-time,,,0.0,0.0
+JOB-0156,Senior Data Analyst,Tech Mahindra,Remote,"Airflow, Docker, Excel, Pandas, PostgreSQL",2026-07-24,Full-time,20.0,20.0,6.0,10.0
+JOB-0060,Python Developer,Tech Mahindra,Bengaluru,"AWS, Airflow, PostgreSQL, Spark",2026-07-04,Full-time,,,1.0,3.0
+JOB-0194,Data Analyst,Startup Labs,Pune,"Git, Tableau",2026-07-28,Internship,6.0,6.0,3.0,3.0
+JOB-0099,ETL Developer,Unknown,Mumbai,"Airflow, Docker, Excel, Git, PostgreSQL",2026-07-07,Full-time,4.5,4.5,0.0,0.0
+JOB-0312,Data Analyst,TCS,Remote,"Git, PostgreSQL, Power BI, Python",2026-08-21,Full-time,,,6.0,10.0
+JOB-0491,Python Developer,Wipro,Pune,"Excel, Git, Tableau",2026-07-09,Full-time,6.0,6.0,2.0,4.0
+JOB-0042,BI Developer,TCS,Bengaluru,"Airflow, Spark",2026-08-16,Unknown,20.0,20.0,1.0,3.0
+JOB-0390,Business Analyst,Persistent Systems,Hyderabad,"Pandas, Python, SQL, Spark",2026-08-25,Full-time,6.0,6.0,3.0,3.0
+JOB-0228,Junior Data Engineer,Wipro,Remote,"Git, Pandas",2026-07-18,Contract,20.0,20.0,2.0,4.0
+JOB-0241,Data Engineer,DataNova Pvt Ltd,Mumbai,"Airflow, PostgreSQL, Python",2026-08-09,Full-time,20.0,20.0,1.0,3.0
+JOB-0080,BI Developer,Cognizant,Mumbai,"Airflow, Excel, Git, SQL",2026-09-20,Unknown,6.0,6.0,3.0,3.0
+JOB-0029,Senior Data Analyst,TCS,Remote,"AWS, Excel, Pandas, Spark, Tableau",2026-08-14,Full-time,12.0,15.0,3.0,3.0
+JOB-0447,Machine Learning Engineer,TCS,Bengaluru,"Git, Pandas, PostgreSQL, Tableau",2026-08-17,Full-time,6.0,6.0,1.0,3.0
+JOB-0322,Junior Data Engineer,Wipro,Remote,"Docker, Git, PostgreSQL, Spark, Tableau",2026-09-02,Internship,,,0.0,0.0
+JOB-0240,ETL Developer,DataNova Pvt Ltd,Pune,"Docker, Git, Pandas, SQL, Tableau",2026-07-10,Full-time,12.0,15.0,2.0,4.0
+JOB-0269,Data Analyst,Persistent Systems,Pune,"Excel, Power BI, Python, Tableau",2026-08-05,Unknown,6.0,6.0,3.0,3.0
+JOB-0213,BI Developer,Persistent Systems,Pune,"Docker, Excel, Power BI, Python, Tableau",2026-07-23,Internship,12.0,15.0,3.0,3.0
+JOB-0348,Data Analyst,Tech Mahindra,Bengaluru,"AWS, Docker, Git, PostgreSQL, Power BI",2026-08-07,Full-time,6.0,6.0,6.0,10.0
+JOB-0058,Data Analyst,TCS,Nagpur,"AWS, Git, PostgreSQL, Spark, Tableau",2026-08-31,Contract,8.0,8.0,0.0,0.0
+JOB-0169,Senior Data Analyst,Capgemini,Hyderabad,"Airflow, Docker, Pandas, Power BI",2026-08-12,Unknown,4.5,4.5,0.0,0.0
+JOB-0063,Python Developer,Infosys,Bengaluru,"Git, Power BI, SQL, Spark",2026-07-05,Full-time,8.0,8.0,5.0,
+JOB-0404,Junior Data Engineer,Infosys,Pune,"Docker, Git",2026-07-12,Full-time,4.5,4.5,2.0,4.0
+JOB-0112,Senior Data Analyst,Startup Labs,Pune,"Excel, Pandas, Power BI, Python, SQL",,Full-time,6.0,8.0,0.0,0.0
+JOB-0085,Senior Data Analyst,DataNova Pvt Ltd,Bengaluru,"Docker, Excel, Python",2026-07-09,Contract,8.0,8.0,0.0,1.0
+JOB-0411,Data Analyst,Startup Labs,Pune,"Git, Pandas",2026-07-13,Full-time,12.0,15.0,,
+JOB-0378,Python Developer,Zensar,Pune,"Pandas, Python, SQL",2026-08-06,Full-time,,,3.0,3.0
+JOB-0385,Data Engineer,Wipro,Bengaluru,"Airflow, Docker, Excel, Git, Pandas",2026-08-02,Contract,12.0,15.0,1.0,3.0
+JOB-0454,Data Analyst,Accenture,Remote,"Airflow, Git, SQL",2026-08-14,Full-time,,,1.0,3.0
+JOB-0130,BI Developer,Startup Labs,Pune,"Airflow, Pandas, Python",2026-07-05,Full-time,6.0,8.0,2.0,4.0
+JOB-0259,Machine Learning Engineer,Accenture,Bengaluru,"AWS, Airflow, Git",2026-07-31,Internship,6.0,8.0,0.0,1.0
+JOB-0097,Machine Learning Engineer,Capgemini,Pune,"AWS, Excel, Pandas, Spark",2026-08-08,Internship,4.5,4.5,2.0,4.0
+JOB-0442,Data Analyst,DataNova Pvt Ltd,Mumbai,"Airflow, Excel, Git, Spark, Tableau",2026-08-14,Full-time,8.0,8.0,0.0,1.0
+JOB-0178,Data Analyst,Accenture,Pune,"Airflow, SQL, Tableau",2026-07-12,Full-time,6.0,6.0,1.0,3.0
+JOB-0443,Junior Data Engineer,Zensar,Nagpur,"Excel, PostgreSQL, Python",2026-07-12,Full-time,,,6.0,10.0
+JOB-0500,BI Developer,Zensar,Mumbai,"Docker, Excel, Pandas, Power BI, Tableau",2026-07-16,Full-time,4.5,4.5,6.0,10.0
+JOB-0142,Python Developer,Startup Labs,Pune,"AWS, Docker, Pandas, Python, SQL",2026-09-12,Contract,6.0,6.0,2.0,4.0
+JOB-0483,BI Developer,Wipro,Pune,"AWS, Python",2026-08-04,Full-time,6.0,6.0,0.0,0.0
+JOB-0388,Machine Learning Engineer,DataNova Pvt Ltd,Nagpur,"AWS, Airflow, Excel, SQL",2026-09-23,Full-time,8.0,8.0,6.0,10.0
+JOB-0495,Data Analyst,Wipro,Mumbai,"Airflow, SQL, Tableau",2026-08-23,Full-time,,,3.0,3.0
+JOB-0359,Data Engineer,Wipro,Pune,"Docker, Git, Power BI",2026-07-05,Full-time,4.5,4.5,3.0,3.0
+JOB-0337,Data Analyst,TCS,Pune,"AWS, Docker, Git, Python, Tableau",,Full-time,4.5,4.5,,
+JOB-0268,ETL Developer,Cognizant,Remote,"AWS, Docker, PostgreSQL, Spark, Tableau",2026-07-27,Full-time,8.0,8.0,1.0,3.0
+JOB-0265,Data Analyst,Infosys,Bengaluru,"Docker, Excel, PostgreSQL",2026-07-09,Full-time,,,6.0,10.0
+JOB-0082,Senior Data Analyst,Accenture,Pune,"AWS, Pandas, SQL",2026-08-27,Full-time,6.0,6.0,6.0,10.0
+JOB-0485,Junior Data Engineer,Tech Mahindra,Pune,"Airflow, Python",2026-07-05,Unknown,6.0,6.0,6.0,10.0
+JOB-0327,Junior Data Engineer,Tech Mahindra,Remote,"Excel, Python",2026-08-09,Internship,6.0,8.0,5.0,
+JOB-0477,Machine Learning Engineer,Infosys,Remote,"AWS, Pandas, Spark, Tableau",2026-09-01,Full-time,20.0,20.0,5.0,
+JOB-0219,Data Analyst,Startup Labs,Mumbai,"Docker, Excel, Pandas, Tableau",2026-07-31,Unknown,4.5,4.5,2.0,4.0
+JOB-0453,Data Analyst,DataNova Pvt Ltd,Pune,"Docker, Python",2026-08-26,Full-time,,,2.0,4.0
+JOB-0285,Data Engineer,Startup Labs,Mumbai,"Airflow, Git, Pandas",2026-08-23,Full-time,12.0,15.0,1.0,3.0
+JOB-0306,Junior Data Engineer,Persistent Systems,Nagpur,"AWS, Excel, SQL, Spark",2026-08-19,Internship,,,0.0,1.0
+JOB-0457,Python Developer,Startup Labs,Pune,"Docker, Excel, Git, SQL, Spark",2026-08-19,Full-time,8.0,8.0,0.0,0.0
+JOB-0054,Data Analyst,Startup Labs,Bengaluru,"Airflow, Docker, Excel, Python",2026-09-08,Unknown,4.5,4.5,0.0,1.0
+JOB-0172,Business Analyst,Capgemini,Bengaluru,"AWS, Pandas",2026-08-31,Full-time,,,,
+JOB-0201,ETL Developer,Tech Mahindra,Bengaluru,"Docker, SQL, Tableau",,Full-time,6.0,6.0,1.0,3.0
+JOB-0295,Machine Learning Engineer,Wipro,Remote,"Docker, PostgreSQL, Power BI, SQL, Spark",2026-09-29,Unknown,20.0,20.0,1.0,3.0
+JOB-0140,Junior Data Engineer,DataNova Pvt Ltd,Pune,"Git, Python, SQL",2026-08-11,Internship,12.0,15.0,1.0,3.0
+JOB-0405,Business Analyst,Startup Labs,Hyderabad,"Excel, PostgreSQL",2026-07-09,Contract,4.5,4.5,0.0,0.0
+JOB-0297,Data Analyst,Startup Labs,Hyderabad,"AWS, Power BI, Python, Spark",2026-08-14,Unknown,,,,
+JOB-0067,Data Analyst,Startup Labs,Mumbai,"Airflow, Docker",2026-09-02,Full-time,12.0,15.0,0.0,1.0
+JOB-0437,ETL Developer,Infosys,Mumbai,"AWS, Excel, Pandas, PostgreSQL, Python",2026-08-25,Unknown,,,0.0,0.0
+JOB-0278,Data Analyst,Zensar,Bengaluru,"Airflow, Git, PostgreSQL, Spark",2026-08-13,Full-time,8.0,8.0,5.0,
+JOB-0307,ETL Developer,DataNova Pvt Ltd,Pune,"Airflow, Docker, Pandas, Power BI, Python",2026-09-23,Unknown,,,,
+JOB-0223,BI Developer,Capgemini,Pune,"Airflow, Python, SQL",2026-08-29,Internship,,,5.0,
+JOB-0100,Junior Data Engineer,Tech Mahindra,Pune,"Airflow, Pandas, PostgreSQL, Power BI",2026-08-14,Full-time,,,5.0,
+JOB-0296,BI Developer,DataNova Pvt Ltd,Pune,"AWS, PostgreSQL",2026-07-09,Full-time,6.0,6.0,6.0,10.0
+JOB-0149,Senior Data Analyst,Wipro,Hyderabad,"AWS, Excel, PostgreSQL, Python, Tableau",2026-09-25,Unknown,,,5.0,
+JOB-0016,Python Developer,Accenture,Pune,"Excel, Power BI",2026-09-04,Full-time,6.0,8.0,0.0,1.0
+JOB-0164,Business Analyst,Capgemini,Mumbai,"AWS, Airflow, Pandas, Power BI, Spark",2026-07-19,Full-time,6.0,8.0,3.0,3.0
+JOB-0302,Data Analyst,Startup Labs,Pune,"Docker, PostgreSQL, SQL, Spark, Tableau",,Contract,8.0,8.0,0.0,0.0
+JOB-0047,Data Analyst,Wipro,Pune,"AWS, Docker, PostgreSQL, Tableau",2026-08-25,Internship,6.0,6.0,6.0,10.0
+JOB-0087,Business Analyst,Persistent Systems,Pune,"Pandas, Python, SQL, Tableau",2026-09-09,Unknown,6.0,6.0,0.0,0.0
+JOB-0038,Business Analyst,TCS,Hyderabad,"Excel, Pandas, Python, Spark, Tableau",2026-08-19,Internship,,,0.0,0.0
+JOB-0441,ETL Developer,Tech Mahindra,Remote,"Excel, Git, PostgreSQL, Spark",2026-08-24,Internship,,,6.0,10.0
+JOB-0387,BI Developer,Persistent Systems,Bengaluru,"Pandas, PostgreSQL, Power BI, SQL, Spark",2026-08-19,Full-time,6.0,6.0,0.0,0.0
+JOB-0419,ETL Developer,Tech Mahindra,Hyderabad,"Excel, Power BI, Python, SQL",2026-09-11,Full-time,20.0,20.0,5.0,
+JOB-0207,Data Analyst,Accenture,Pune,"Docker, PostgreSQL",2026-09-15,Internship,20.0,20.0,,
+JOB-0409,Data Analyst,Tech Mahindra,Nagpur,"AWS, Power BI",2026-07-05,Full-time,,,,
+JOB-0365,Business Analyst,Persistent Systems,Nagpur,"Excel, Git, PostgreSQL, SQL",2026-08-05,Full-time,8.0,8.0,3.0,3.0
+JOB-0173,Machine Learning Engineer,DataNova Pvt Ltd,Hyderabad,"Git, Python, SQL, Spark",2026-07-27,Full-time,20.0,20.0,,
+JOB-0074,Senior Data Analyst,Startup Labs,Mumbai,"Airflow, Git, Power BI, SQL",2026-07-17,Internship,6.0,8.0,,
+JOB-0293,Data Engineer,DataNova Pvt Ltd,Bengaluru,"Docker, Excel",2026-09-08,Full-time,6.0,6.0,0.0,0.0
+JOB-0105,Business Analyst,Startup Labs,Bengaluru,"Python, Spark, Tableau",2026-08-09,Full-time,4.5,4.5,5.0,
+JOB-0250,Data Analyst,Startup Labs,Pune,"Git, SQL",2026-09-17,Full-time,,,0.0,1.0
+JOB-0422,Data Analyst,Tech Mahindra,Pune,"Airflow, Docker, Excel",2026-08-04,Internship,,,0.0,0.0
+JOB-0017,BI Developer,Unknown,Mumbai,"AWS, Airflow, Excel, Spark",2026-09-24,Full-time,12.0,15.0,6.0,10.0
+JOB-0364,ETL Developer,Tech Mahindra,Hyderabad,"Docker, Excel",2026-08-21,Contract,,,2.0,4.0
+JOB-0092,Business Analyst,DataNova Pvt Ltd,Mumbai,"Airflow, PostgreSQL, SQL",2026-08-27,Full-time,20.0,20.0,1.0,3.0
+JOB-0089,Machine Learning Engineer,TCS,Mumbai,"Airflow, Docker, Pandas",2026-09-18,Contract,6.0,8.0,1.0,3.0
+JOB-0498,Data Analyst,Startup Labs,Pune,"AWS, Docker, Python, SQL",2026-07-28,Contract,6.0,6.0,,
+JOB-0141,Data Analyst,Zensar,Mumbai,"Airflow, Excel, PostgreSQL",2026-07-16,Full-time,4.5,4.5,5.0,
+JOB-0195,Machine Learning Engineer,Persistent Systems,Nagpur,"Airflow, Docker, Git",2026-09-30,Full-time,,,2.0,4.0
+JOB-0206,Machine Learning Engineer,Zensar,Pune,"Airflow, Excel, Python, SQL, Tableau",2026-07-27,Contract,6.0,6.0,5.0,
+JOB-0103,Machine Learning Engineer,Wipro,Pune,"Airflow, Docker, Excel, PostgreSQL, Python",2026-09-04,Unknown,6.0,8.0,3.0,3.0
+JOB-0239,Machine Learning Engineer,Capgemini,Mumbai,"AWS, Airflow, Tableau",2026-10-01,Internship,,,3.0,3.0
+JOB-0421,Python Developer,Cognizant,Mumbai,"Pandas, Power BI, SQL",2026-08-10,Full-time,6.0,6.0,1.0,3.0
+JOB-0175,Senior Data Analyst,Tech Mahindra,Pune,"Airflow, Docker, PostgreSQL, SQL",2026-09-26,Full-time,,,6.0,10.0
+JOB-0171,Python Developer,Persistent Systems,Nagpur,"Airflow, Excel, Git, Power BI, Tableau",2026-08-08,Contract,12.0,15.0,2.0,4.0
+JOB-0379,Data Analyst,Tech Mahindra,Remote,"AWS, Excel, PostgreSQL, SQL",2026-08-04,Full-time,,,3.0,3.0
+JOB-0158,Machine Learning Engineer,Tech Mahindra,Hyderabad,"AWS, PostgreSQL",2026-07-26,Internship,,,0.0,1.0
+JOB-0334,Data Analyst,Cognizant,Remote,"AWS, Excel, SQL",2026-08-29,Full-time,,,3.0,3.0
+JOB-0071,Junior Data Engineer,Startup Labs,Mumbai,"AWS, Docker, Pandas, Power BI, Python",2026-08-03,Unknown,8.0,8.0,5.0,
+JOB-0134,Data Analyst,TCS,Mumbai,"AWS, Docker, PostgreSQL, Power BI, Tableau",2026-07-18,Unknown,,,3.0,3.0
+JOB-0320,BI Developer,TCS,Nagpur,"AWS, Spark",2026-07-14,Contract,,,0.0,1.0
+JOB-0104,Business Analyst,TCS,Pune,"Power BI, Python",2026-07-14,Contract,6.0,6.0,3.0,3.0
+JOB-0395,Data Analyst,Accenture,Pune,"Airflow, Power BI",2026-07-24,Full-time,,,2.0,4.0
+JOB-0019,Data Analyst,DataNova Pvt Ltd,Pune,"Git, Spark",2026-09-05,Full-time,4.5,4.5,0.0,1.0
+JOB-0151,Python Developer,Accenture,Mumbai,"Pandas, PostgreSQL, Power BI, SQL, Tableau",2026-09-20,Full-time,,,0.0,0.0
+JOB-0355,Senior Data Analyst,Zensar,Pune,"Git, Tableau",2026-09-28,Full-time,,,3.0,3.0
+JOB-0368,Python Developer,DataNova Pvt Ltd,Hyderabad,"Airflow, Docker, Power BI, Python, SQL",2026-07-22,Full-time,,,6.0,10.0
+JOB-0264,Data Engineer,Capgemini,Pune,"PostgreSQL, Python, SQL, Spark",2026-07-18,Contract,,,5.0,
+JOB-0303,BI Developer,Accenture,Pune,"Airflow, Git, PostgreSQL",2026-07-09,Internship,4.5,4.5,0.0,1.0
+JOB-0435,Junior Data Engineer,Cognizant,Pune,"Airflow, Docker, Excel, Tableau",2026-09-09,Unknown,6.0,8.0,0.0,0.0
+JOB-0035,Data Analyst,Capgemini,Remote,"PostgreSQL, Spark",2026-08-09,Contract,6.0,6.0,5.0,
+JOB-0182,Data Analyst,Persistent Systems,Pune,"AWS, Excel, Tableau",2026-07-30,Full-time,6.0,8.0,3.0,3.0
+JOB-0185,Senior Data Analyst,Zensar,Pune,"Excel, Spark",2026-07-10,Full-time,4.5,4.5,3.0,3.0
+JOB-0208,BI Developer,Cognizant,Mumbai,"Excel, Power BI, SQL",2026-09-10,Contract,,,3.0,3.0
+JOB-0095,Data Engineer,Tech Mahindra,Bengaluru,"Docker, Pandas, Spark, Tableau",2026-09-25,Internship,,,0.0,0.0
+JOB-0393,Python Developer,Wipro,Pune,"Airflow, Docker, Excel, PostgreSQL, Spark",2026-08-05,Full-time,6.0,6.0,,
+JOB-0347,BI Developer,Capgemini,Pune,"Airflow, Docker",2026-08-29,Contract,6.0,6.0,1.0,3.0
+JOB-0123,Data Analyst,Capgemini,Bengaluru,"Docker, Pandas, PostgreSQL",2026-07-30,Contract,,,5.0,
+JOB-0354,Python Developer,Accenture,Pune,"AWS, Git, Power BI, Python, Tableau",,Unknown,6.0,6.0,5.0,
+JOB-0079,Senior Data Analyst,DataNova Pvt Ltd,Bengaluru,"AWS, PostgreSQL, Power BI, SQL, Spark",2026-08-10,Contract,12.0,15.0,6.0,10.0
+JOB-0062,Data Analyst,Startup Labs,Pune,"Docker, Pandas, SQL, Spark",2026-07-25,Unknown,8.0,8.0,6.0,10.0
+JOB-0496,Senior Data Analyst,Cognizant,Bengaluru,"Airflow, PostgreSQL, SQL, Spark, Tableau",2026-07-15,Contract,6.0,6.0,6.0,10.0
+JOB-0126,Junior Data Engineer,Accenture,Nagpur,"Excel, SQL",2026-08-19,Full-time,,,3.0,3.0
+JOB-0455,BI Developer,Cognizant,Pune,"Airflow, Pandas, Tableau",2026-07-30,Contract,,,2.0,4.0
+JOB-0331,Machine Learning Engineer,Infosys,Pune,"Airflow, Excel, Git, Power BI, Python",2026-08-31,Unknown,12.0,15.0,2.0,4.0
+JOB-0466,Business Analyst,Unknown,Mumbai,"Airflow, Docker, Git, SQL",2026-07-29,Internship,,,,
+JOB-0467,Data Analyst,Cognizant,Mumbai,"AWS, Power BI",2026-08-24,Full-time,6.0,6.0,6.0,10.0
+JOB-0439,Senior Data Analyst,Infosys,Bengaluru,"Power BI, Python, Tableau",2026-08-05,Full-time,20.0,20.0,5.0,
+JOB-0025,BI Developer,Wipro,Pune,"Excel, Pandas, Power BI, Python, Spark",2026-07-04,Contract,6.0,6.0,0.0,0.0
+JOB-0343,Junior Data Engineer,Accenture,Bengaluru,"Airflow, Python",2026-08-29,Full-time,4.5,4.5,0.0,0.0
+JOB-0372,BI Developer,Cognizant,Pune,"Airflow, Docker, PostgreSQL",2026-09-08,Unknown,,,1.0,3.0
+JOB-0313,ETL Developer,Zensar,Nagpur,"Airflow, Excel, Power BI, Spark",2026-08-15,Internship,4.5,4.5,1.0,3.0
+JOB-0127,Data Engineer,Capgemini,Bengaluru,"Excel, Pandas",2026-09-12,Full-time,6.0,8.0,0.0,1.0
+JOB-0481,Machine Learning Engineer,DataNova Pvt Ltd,Hyderabad,"Airflow, Excel, Git, Pandas, Tableau",2026-08-09,Contract,,,1.0,3.0
+JOB-0301,Data Analyst,Startup Labs,Pune,"AWS, Power BI, SQL",2026-07-23,Unknown,6.0,6.0,6.0,10.0
+JOB-0179,BI Developer,Cognizant,Mumbai,"Docker, Excel, PostgreSQL, SQL",2026-08-23,Unknown,,,0.0,0.0
+JOB-0462,BI Developer,TCS,Bengaluru,"AWS, Airflow, Excel, Git, Python",2026-07-18,Unknown,20.0,20.0,6.0,10.0
+JOB-0407,Python Developer,Persistent Systems,Bengaluru,"AWS, Excel, Power BI, SQL, Spark",2026-08-29,Full-time,,,0.0,0.0
+JOB-0224,Data Analyst,Wipro,Remote,"Airflow, Docker, PostgreSQL, Python",2026-09-10,Full-time,8.0,8.0,2.0,4.0
+JOB-0478,BI Developer,Zensar,Pune,"Airflow, Excel, Pandas, Power BI",2026-08-27,Contract,8.0,8.0,5.0,
+JOB-0094,Python Developer,DataNova Pvt Ltd,Hyderabad,"AWS, Airflow, Excel, Python, SQL",2026-09-21,Full-time,6.0,6.0,1.0,3.0
+JOB-0070,Senior Data Analyst,Tech Mahindra,Pune,"AWS, Pandas, Python, SQL, Spark",2026-08-04,Unknown,6.0,6.0,5.0,
+JOB-0037,Business Analyst,Tech Mahindra,Pune,"Excel, Git, Pandas, Python, Spark",2026-07-14,Full-time,12.0,15.0,,
+JOB-0161,Machine Learning Engineer,Unknown,Pune,"Docker, Git, Pandas, Python, SQL",2026-07-05,Internship,8.0,8.0,6.0,10.0
+JOB-0012,Data Analyst,Accenture,Pune,"AWS, Power BI, Tableau",2026-07-10,Contract,12.0,15.0,,
+JOB-0145,Data Analyst,Wipro,Pune,"Airflow, Docker, PostgreSQL, Spark",2026-07-09,Unknown,20.0,20.0,,
+JOB-0376,Data Analyst,Zensar,Bengaluru,"Docker, Power BI",2026-08-17,Internship,20.0,20.0,1.0,3.0
+JOB-0128,Senior Data Analyst,Cognizant,Pune,"AWS, Airflow, Git, PostgreSQL",2026-09-29,Full-time,,,3.0,3.0
+JOB-0304,Data Engineer,Unknown,Bengaluru,"Git, Pandas, Python",2026-09-11,Contract,,,5.0,
+JOB-0010,Python Developer,Unknown,Remote,"Git, Tableau",2026-09-11,Full-time,12.0,15.0,0.0,0.0
+JOB-0398,Junior Data Engineer,Zensar,Pune,"Docker, Excel",2026-08-15,Unknown,12.0,15.0,0.0,1.0
+JOB-0177,Machine Learning Engineer,Infosys,Remote,"Docker, Git, Power BI, Python, Spark",2026-07-03,Full-time,4.5,4.5,5.0,
+JOB-0232,BI Developer,Startup Labs,Nagpur,"Excel, Tableau",2026-07-16,Full-time,4.5,4.5,6.0,10.0
+JOB-0211,Data Analyst,Persistent Systems,Pune,"Git, PostgreSQL, SQL, Tableau",2026-09-23,Contract,6.0,6.0,,
+JOB-0129,BI Developer,Startup Labs,Pune,"Docker, Git, PostgreSQL, Power BI",2026-09-10,Full-time,4.5,4.5,6.0,10.0
+JOB-0144,Data Analyst,Infosys,Remote,"Pandas, Spark",2026-09-24,Contract,6.0,6.0,2.0,4.0
+JOB-0242,Business Analyst,DataNova Pvt Ltd,Pune,"AWS, Excel, Git, Pandas, Tableau",2026-08-02,Unknown,6.0,6.0,5.0,
+JOB-0008,Data Engineer,Wipro,Bengaluru,"Excel, SQL",2026-08-08,Contract,,,2.0,4.0
+JOB-0299,ETL Developer,Infosys,Mumbai,"Excel, Pandas, SQL, Spark",2026-08-30,Contract,20.0,20.0,5.0,
+JOB-0255,BI Developer,TCS,Pune,"Airflow, Pandas, PostgreSQL",2026-09-20,Full-time,6.0,8.0,0.0,0.0
+JOB-0427,Data Analyst,Persistent Systems,Hyderabad,"Airflow, Excel, Git, Python, Tableau",2026-09-14,Full-time,8.0,8.0,0.0,1.0
+JOB-0458,Data Engineer,Tech Mahindra,Pune,"Airflow, Docker, Git, Pandas, Spark",2026-08-04,Contract,4.5,4.5,3.0,3.0
+JOB-0009,Business Analyst,Accenture,Pune,"AWS, Git",2026-08-19,Full-time,,,0.0,1.0
+JOB-0157,Data Analyst,TCS,Hyderabad,"Excel, Git, PostgreSQL, Power BI, SQL",2026-08-04,Unknown,6.0,8.0,0.0,1.0
+JOB-0028,BI Developer,Accenture,Pune,"AWS, PostgreSQL, Python, Spark",2026-09-23,Full-time,,,5.0,
+JOB-0267,Senior Data Analyst,Accenture,Hyderabad,"Docker, Pandas, Tableau",2026-07-10,Full-time,6.0,6.0,5.0,
+JOB-0315,Python Developer,Wipro,Mumbai,"AWS, Airflow, Git, Tableau",2026-07-05,Internship,,,0.0,0.0
+JOB-0065,Machine Learning Engineer,DataNova Pvt Ltd,Pune,"Airflow, PostgreSQL, Python, Tableau",2026-09-11,Full-time,6.0,6.0,6.0,10.0
+JOB-0256,Data Analyst,Tech Mahindra,Pune,"Excel, Git, PostgreSQL, Python, SQL",2026-07-18,Unknown,,,6.0,10.0
+JOB-0154,Junior Data Engineer,Accenture,Nagpur,"Docker, Pandas, PostgreSQL, Power BI, Spark",2026-09-03,Internship,,,2.0,4.0
+JOB-0049,Data Analyst,Tech Mahindra,Pune,"AWS, Docker, Excel, Python, SQL",2026-08-31,Full-time,8.0,8.0,,
+JOB-0209,Data Analyst,Persistent Systems,Nagpur,"Excel, PostgreSQL, SQL, Tableau",2026-08-21,Full-time,12.0,15.0,6.0,10.0
+JOB-0288,ETL Developer,Unknown,Pune,"Airflow, Excel, Git",2026-08-01,Full-time,4.5,4.5,0.0,0.0
+JOB-0002,Data Engineer,Infosys,Bengaluru,"Airflow, Docker, Tableau",2026-09-11,Internship,6.0,6.0,,
+JOB-0270,ETL Developer,Startup Labs,Bengaluru,"Git, PostgreSQL, Python, Spark",2026-07-06,Full-time,,,5.0,
+JOB-0266,BI Developer,DataNova Pvt Ltd,Remote,"AWS, Airflow, Excel, Pandas, Tableau",2026-07-28,Full-time,6.0,6.0,3.0,3.0
+JOB-0356,Data Analyst,Capgemini,Hyderabad,"AWS, Docker, Git, Power BI, Spark",2026-08-08,Internship,6.0,6.0,2.0,4.0
+JOB-0096,Data Analyst,Accenture,Hyderabad,"Docker, Excel, Git, PostgreSQL",2026-07-09,Internship,,,3.0,3.0
+JOB-0043,Data Analyst,Accenture,Hyderabad,"Docker, Pandas, Power BI, Spark, Tableau",2026-08-05,Full-time,12.0,15.0,6.0,10.0
+JOB-0338,Machine Learning Engineer,TCS,Nagpur,"AWS, Pandas, Python, Spark",2026-09-22,Full-time,20.0,20.0,0.0,1.0
+JOB-0117,Business Analyst,TCS,Pune,"Docker, Excel, Pandas, SQL, Spark",2026-07-06,Full-time,,,6.0,10.0
+JOB-0046,Machine Learning Engineer,Tech Mahindra,Bengaluru,"AWS, Airflow, Docker, Pandas, PostgreSQL",2026-09-02,Internship,,,1.0,3.0
+JOB-0162,Data Analyst,Startup Labs,Pune,"Pandas, Power BI, Python",2026-08-12,Full-time,,,0.0,1.0
+JOB-0410,Business Analyst,Cognizant,Mumbai,"AWS, Git, Pandas, Python, SQL",2026-08-25,Full-time,20.0,20.0,3.0,3.0
+JOB-0118,Machine Learning Engineer,Wipro,Mumbai,"AWS, Excel",2026-08-21,Internship,,,0.0,1.0
+JOB-0289,Python Developer,Zensar,Mumbai,"AWS, Pandas, Spark",,Unknown,6.0,6.0,0.0,1.0
+JOB-0078,BI Developer,Tech Mahindra,Remote,"Docker, Pandas",2026-08-27,Full-time,,,2.0,4.0
+JOB-0417,Python Developer,Infosys,Pune,"Airflow, Docker, Excel, PostgreSQL, Power BI",2026-08-10,Full-time,8.0,8.0,3.0,3.0
+JOB-0064,Senior Data Analyst,Zensar,Mumbai,"AWS, Power BI, Spark",2026-09-21,Full-time,6.0,6.0,,
+JOB-0339,ETL Developer,Persistent Systems,Bengaluru,"AWS, Git, Power BI",2026-07-22,Unknown,,,5.0,
+JOB-0418,Data Analyst,Tech Mahindra,Bengaluru,"AWS, Power BI, Python, Spark",2026-07-26,Internship,8.0,8.0,3.0,3.0
+JOB-0414,Data Analyst,Startup Labs,Pune,"SQL, Tableau",2026-07-18,Full-time,6.0,8.0,0.0,0.0
+JOB-0231,ETL Developer,Zensar,Bengaluru,"Docker, Excel, PostgreSQL, SQL, Spark",2026-09-19,Internship,,,0.0,1.0
+JOB-0298,Business Analyst,Wipro,Pune,"Docker, Tableau",2026-10-01,Full-time,,,5.0,
+JOB-0187,ETL Developer,Cognizant,Nagpur,"PostgreSQL, SQL",2026-07-04,Full-time,,,1.0,3.0
+JOB-0361,Machine Learning Engineer,Persistent Systems,Pune,"Airflow, Pandas, PostgreSQL, Power BI, Spark",2026-07-16,Unknown,6.0,6.0,6.0,10.0
+JOB-0200,Data Analyst,Zensar,Remote,"AWS, SQL, Spark, Tableau",2026-07-20,Contract,8.0,8.0,0.0,1.0
+JOB-0366,BI Developer,Accenture,Bengaluru,"AWS, Excel, Git, Pandas, Python",2026-09-25,Unknown,6.0,6.0,,
+JOB-0122,Data Engineer,Wipro,Mumbai,"AWS, Docker, Excel, Pandas, SQL",2026-09-16,Full-time,6.0,6.0,1.0,3.0
+JOB-0499,Machine Learning Engineer,Zensar,Mumbai,"Git, SQL",2026-09-08,Full-time,12.0,15.0,2.0,4.0
+JOB-0461,Data Analyst,Cognizant,Mumbai,"Excel, Python",2026-09-10,Internship,,,6.0,10.0
+JOB-0308,Data Engineer,Capgemini,Mumbai,"Power BI, SQL, Spark, Tableau",2026-09-09,Full-time,,,0.0,1.0
+JOB-0492,ETL Developer,Wipro,Mumbai,"Git, Pandas, Python, SQL, Tableau",2026-07-18,Internship,8.0,8.0,5.0,
+JOB-0159,Data Analyst,Startup Labs,Mumbai,"AWS, Excel",2026-07-26,Internship,6.0,6.0,2.0,4.0
+JOB-0086,BI Developer,Accenture,Pune,"Git, Tableau",,Contract,6.0,6.0,,
+JOB-0226,BI Developer,Startup Labs,Hyderabad,"Power BI, Python, SQL",2026-09-21,Internship,4.5,4.5,6.0,10.0
+JOB-0263,Machine Learning Engineer,Zensar,Bengaluru,"Excel, Python",2026-08-10,Full-time,,,1.0,3.0
+JOB-0332,Business Analyst,Startup Labs,Pune,"AWS, PostgreSQL, SQL",2026-08-22,Internship,6.0,8.0,1.0,3.0
+JOB-0428,Senior Data Analyst,Startup Labs,Pune,"AWS, Pandas, PostgreSQL, Python, Tableau",2026-07-04,Full-time,20.0,20.0,2.0,4.0
+JOB-0077,Data Analyst,Cognizant,Bengaluru,"AWS, Docker, Power BI, Python, Tableau",2026-09-28,Contract,4.5,4.5,2.0,4.0
+JOB-0415,Python Developer,DataNova Pvt Ltd,Pune,"Git, Pandas, PostgreSQL, SQL, Spark",2026-09-04,Full-time,8.0,8.0,5.0,
+JOB-0143,Data Analyst,DataNova Pvt Ltd,Nagpur,"Airflow, Excel",2026-09-24,Internship,8.0,8.0,6.0,10.0
+JOB-0088,Data Engineer,Startup Labs,Mumbai,"Python, Spark",2026-08-22,Contract,8.0,8.0,,
+JOB-0183,Data Analyst,Accenture,Mumbai,"AWS, Git, Power BI, SQL, Spark",2026-09-27,Full-time,,,0.0,1.0
+JOB-0106,ETL Developer,TCS,Bengaluru,"Airflow, Pandas, Python, Spark, Tableau",2026-09-23,Unknown,,,0.0,1.0
+JOB-0426,ETL Developer,Unknown,Bengaluru,"Airflow, PostgreSQL",2026-09-30,Full-time,,,6.0,10.0
+JOB-0050,Business Analyst,Persistent Systems,Bengaluru,"Docker, PostgreSQL, Python, Spark, Tableau",2026-09-05,Unknown,,,6.0,10.0
+JOB-0406,Junior Data Engineer,Startup Labs,Mumbai,"Python, Tableau",2026-09-24,Full-time,12.0,15.0,0.0,0.0
+JOB-0006,Machine Learning Engineer,Persistent Systems,Hyderabad,"Pandas, Python, Spark",2026-07-21,Full-time,6.0,6.0,0.0,1.0
+JOB-0018,Senior Data Analyst,DataNova Pvt Ltd,Nagpur,"AWS, SQL",2026-09-23,Contract,,,0.0,0.0
+JOB-0235,Data Analyst,Wipro,Pune,"AWS, Docker, Python",2026-09-06,Full-time,12.0,15.0,,
+JOB-0430,Data Analyst,Persistent Systems,Pune,"Airflow, Git",2026-09-03,Full-time,6.0,6.0,5.0,
+JOB-0373,Junior Data Engineer,Infosys,Pune,"PostgreSQL, Power BI",2026-08-20,Full-time,6.0,8.0,6.0,10.0
+JOB-0424,Data Analyst,Startup Labs,Bengaluru,"AWS, Spark",2026-09-04,Internship,6.0,6.0,5.0,
+JOB-0107,Machine Learning Engineer,DataNova Pvt Ltd,Remote,"AWS, Pandas",2026-09-09,Contract,6.0,6.0,0.0,0.0
+JOB-0135,ETL Developer,Persistent Systems,Pune,"Airflow, Excel, PostgreSQL, SQL",2026-09-11,Contract,8.0,8.0,,
+JOB-0431,Machine Learning Engineer,Infosys,Pune,"AWS, Airflow, Git, PostgreSQL, SQL",2026-08-15,Full-time,6.0,6.0,1.0,3.0
+JOB-0227,BI Developer,Startup Labs,Pune,"Pandas, PostgreSQL, Spark",2026-08-29,Full-time,8.0,8.0,,
+JOB-0215,Senior Data Analyst,Wipro,Pune,"Python, Tableau",2026-07-19,Full-time,6.0,6.0,5.0,
+JOB-0191,ETL Developer,Infosys,Pune,"Airflow, Excel, PostgreSQL, Power BI, SQL",2026-09-18,Internship,6.0,6.0,2.0,4.0
+JOB-0472,Data Analyst,Persistent Systems,Pune,"Excel, Git, Power BI, Python, Spark",2026-08-29,Unknown,,,6.0,10.0
+JOB-0321,Junior Data Engineer,Zensar,Nagpur,"AWS, Excel, Python",2026-08-21,Full-time,20.0,20.0,0.0,0.0
+JOB-0283,Python Developer,TCS,Pune,"Airflow, Docker, Power BI, SQL",2026-07-08,Internship,20.0,20.0,2.0,4.0
+JOB-0030,Business Analyst,Accenture,Pune,"Docker, Git, Spark",2026-08-06,Contract,12.0,15.0,3.0,3.0
+JOB-0170,Machine Learning Engineer,DataNova Pvt Ltd,Pune,"Pandas, Power BI, SQL, Spark",,Unknown,6.0,6.0,,
+JOB-0181,Data Analyst,Infosys,Nagpur,"AWS, Airflow, Docker, PostgreSQL, Spark",2026-08-06,Full-time,6.0,6.0,5.0,
+JOB-0101,Data Engineer,Wipro,Pune,"AWS, Git, PostgreSQL, SQL",2026-09-11,Full-time,6.0,8.0,6.0,10.0
+JOB-0198,ETL Developer,DataNova Pvt Ltd,Hyderabad,"PostgreSQL, Power BI, Python, Spark",2026-08-07,Full-time,20.0,20.0,2.0,4.0
+JOB-0210,Senior Data Analyst,Infosys,Hyderabad,"Airflow, Python, Spark",2026-09-18,Full-time,12.0,15.0,3.0,3.0
+JOB-0136,Machine Learning Engineer,Zensar,Mumbai,"Docker, Git",2026-09-27,Contract,12.0,15.0,0.0,1.0
+JOB-0068,Machine Learning Engineer,Zensar,Hyderabad,"Git, PostgreSQL",,Internship,20.0,20.0,0.0,0.0
+JOB-0459,Python Developer,Wipro,Pune,"Airflow, Git",2026-08-14,Full-time,8.0,8.0,0.0,1.0
+JOB-0199,Data Analyst,Startup Labs,Remote,"Excel, PostgreSQL",2026-08-18,Internship,6.0,6.0,2.0,4.0
+JOB-0374,Data Analyst,Zensar,Pune,"AWS, Pandas, PostgreSQL, Python",2026-08-19,Full-time,8.0,8.0,3.0,3.0
+JOB-0167,ETL Developer,Persistent Systems,Bengaluru,"AWS, Docker, Excel, PostgreSQL, Tableau",2026-09-10,Internship,,,0.0,0.0
+JOB-0452,Machine Learning Engineer,Unknown,Pune,"Excel, Git, Pandas",2026-08-27,Internship,8.0,8.0,5.0,
+JOB-0137,Data Analyst,Infosys,Mumbai,"PostgreSQL, Python, SQL, Tableau",2026-07-11,Full-time,,,0.0,0.0
+JOB-0286,Machine Learning Engineer,Zensar,Pune,"Docker, Git, PostgreSQL, SQL",,Full-time,,,5.0,
+JOB-0336,Business Analyst,Capgemini,Hyderabad,"AWS, Git",2026-09-15,Full-time,6.0,6.0,2.0,4.0
+JOB-0397,Business Analyst,Startup Labs,Nagpur,"Git, Tableau",2026-09-21,Internship,4.5,4.5,0.0,0.0
+JOB-0132,Senior Data Analyst,Startup Labs,Hyderabad,"AWS, Power BI, Tableau",2026-08-24,Full-time,12.0,15.0,6.0,10.0
+JOB-0040,Data Engineer,Startup Labs,Pune,"Excel, Pandas, PostgreSQL, SQL, Tableau",2026-09-18,Full-time,4.5,4.5,5.0,
+JOB-0216,Data Engineer,Zensar,Bengaluru,"Excel, Git, Pandas, PostgreSQL, Power BI",2026-09-28,Full-time,6.0,8.0,5.0,
+JOB-0044,Business Analyst,Cognizant,Pune,"Airflow, Pandas, Power BI",2026-07-17,Full-time,,,1.0,3.0
+JOB-0055,Python Developer,Tech Mahindra,Mumbai,"Excel, Git, Pandas, SQL",2026-08-26,Full-time,,,1.0,3.0
+JOB-0300,Business Analyst,Zensar,Hyderabad,"AWS, Airflow, Excel, Pandas, PostgreSQL",2026-08-23,Contract,,,5.0,
+JOB-0488,Python Developer,Cognizant,Remote,"Pandas, SQL, Tableau",2026-07-30,Unknown,,,,
+JOB-0305,Senior Data Analyst,Capgemini,Bengaluru,"AWS, SQL",2026-07-22,Internship,6.0,6.0,0.0,1.0
+JOB-0036,Business Analyst,Infosys,Bengaluru,"Pandas, Tableau",2026-08-09,Full-time,,,6.0,10.0
+JOB-0316,Python Developer,TCS,Nagpur,"AWS, Git, Pandas, Tableau",2026-09-16,Full-time,6.0,6.0,3.0,3.0
+JOB-0400,Data Analyst,Cognizant,Pune,"Excel, Python",2026-08-24,Full-time,20.0,20.0,3.0,3.0
+JOB-0310,Data Analyst,TCS,Hyderabad,"AWS, Python",2026-08-22,Internship,20.0,20.0,6.0,10.0
+JOB-0277,Data Engineer,Persistent Systems,Hyderabad,"AWS, SQL, Spark",,Full-time,,,2.0,4.0
+JOB-0125,Python Developer,Infosys,Pune,"Git, Pandas, PostgreSQL, Spark",2026-07-21,Full-time,,,0.0,0.0
+JOB-0111,Junior Data Engineer,DataNova Pvt Ltd,Remote,"Airflow, Pandas, PostgreSQL, Python, Spark",2026-09-24,Contract,,,0.0,0.0
+JOB-0324,Data Analyst,Zensar,Bengaluru,"AWS, Git, Power BI, Spark",2026-07-11,Full-time,6.0,6.0,0.0,1.0
+JOB-0333,Python Developer,Infosys,Remote,"Airflow, Python, Tableau",2026-07-24,Full-time,,,1.0,3.0
+JOB-0394,BI Developer,DataNova Pvt Ltd,Nagpur,"AWS, Docker, Pandas, PostgreSQL, Python",2026-09-17,Full-time,6.0,6.0,3.0,3.0
+JOB-0468,Business Analyst,TCS,Remote,"AWS, Docker, SQL, Tableau",2026-08-18,Internship,4.5,4.5,2.0,4.0
+JOB-0108,Python Developer,Wipro,Pune,"Git, PostgreSQL, Power BI, Python",2026-07-28,Contract,,,0.0,1.0
+JOB-0475,Data Engineer,Persistent Systems,Pune,"Airflow, Spark, Tableau",2026-09-24,Unknown,8.0,8.0,0.0,0.0
+JOB-0013,Data Analyst,TCS,Mumbai,"PostgreSQL, Python, SQL",2026-09-27,Full-time,6.0,8.0,5.0,
+JOB-0273,Data Analyst,DataNova Pvt Ltd,Pune,"AWS, Docker, Pandas, PostgreSQL, SQL",2026-07-27,Full-time,20.0,20.0,3.0,3.0
+JOB-0048,Data Analyst,Wipro,Pune,"Airflow, Excel, PostgreSQL, SQL",2026-08-02,Full-time,6.0,8.0,0.0,1.0
+JOB-0204,Data Analyst,Infosys,Mumbai,"Airflow, Docker, PostgreSQL, Power BI",2026-07-30,Unknown,6.0,6.0,3.0,3.0
+JOB-0456,Business Analyst,Startup Labs,Nagpur,"Airflow, Power BI, SQL, Spark",2026-07-07,Contract,6.0,6.0,,
+JOB-0120,Data Analyst,DataNova Pvt Ltd,Mumbai,"Python, SQL",2026-07-20,Full-time,4.5,4.5,0.0,1.0
+JOB-0022,Data Analyst,Accenture,Pune,"Pandas, PostgreSQL, Power BI",2026-08-30,Full-time,12.0,15.0,3.0,3.0
+JOB-0403,Machine Learning Engineer,Wipro,Mumbai,"Python, SQL",2026-09-18,Full-time,,,0.0,1.0
+JOB-0084,Business Analyst,TCS,Pune,"AWS, PostgreSQL",2026-08-04,Internship,20.0,20.0,0.0,1.0
+JOB-0131,Python Developer,Infosys,Remote,"AWS, Airflow, Git, Spark",2026-08-04,Full-time,6.0,6.0,5.0,
+JOB-0476,Data Analyst,Capgemini,Nagpur,"Airflow, Excel, Git, Pandas",,Unknown,20.0,20.0,5.0,
+JOB-0384,Python Developer,Zensar,Mumbai,"Airflow, Docker, Excel, PostgreSQL, SQL",2026-07-11,Contract,6.0,6.0,2.0,4.0
+JOB-0330,Senior Data Analyst,Infosys,Remote,"Airflow, Git, Power BI, Tableau",2026-07-08,Full-time,,,2.0,4.0
+JOB-0230,Data Engineer,Capgemini,Pune,"Docker, Excel, Git",2026-09-23,Contract,20.0,20.0,,
+JOB-0287,Business Analyst,DataNova Pvt Ltd,Pune,"Excel, Git, Pandas, Power BI, Spark",2026-07-29,Internship,6.0,8.0,3.0,3.0
+JOB-0124,Junior Data Engineer,TCS,Mumbai,"Docker, Pandas, Power BI",2026-07-30,Unknown,,,6.0,10.0
+JOB-0034,Python Developer,Persistent Systems,Hyderabad,"Airflow, SQL, Tableau",2026-08-20,Full-time,12.0,15.0,6.0,10.0
+JOB-0005,Junior Data Engineer,Cognizant,Pune,"Git, SQL, Tableau",2026-08-31,Internship,6.0,6.0,1.0,3.0
+JOB-0412,Data Analyst,DataNova Pvt Ltd,Pune,"AWS, Git",2026-08-05,Full-time,,,,
+JOB-0020,Junior Data Engineer,Startup Labs,Hyderabad,"Airflow, PostgreSQL, Python, SQL",2026-07-29,Full-time,12.0,15.0,6.0,10.0
+JOB-0220,ETL Developer,DataNova Pvt Ltd,Mumbai,"Docker, Excel, PostgreSQL, Python, Tableau",,Full-time,6.0,6.0,0.0,0.0
+JOB-0380,Data Analyst,Infosys,Hyderabad,"AWS, Airflow, Python, SQL",2026-08-23,Internship,4.5,4.5,2.0,4.0
+JOB-0420,Machine Learning Engineer,Persistent Systems,Mumbai,"AWS, Excel, PostgreSQL, Python, SQL",2026-07-31,Full-time,12.0,15.0,1.0,3.0
+JOB-0357,Python Developer,Persistent Systems,Hyderabad,"AWS, Excel, Tableau",2026-09-13,Full-time,6.0,6.0,5.0,
+JOB-0150,BI Developer,Cognizant,Remote,"Excel, Spark, Tableau",2026-09-03,Full-time,,,,
+JOB-0225,Data Analyst,Persistent Systems,Pune,"Power BI, Python, SQL, Tableau",2026-07-31,Full-time,,,3.0,3.0
+JOB-0248,ETL Developer,Wipro,Pune,"AWS, Airflow, Docker, Git",2026-07-06,Contract,6.0,8.0,3.0,3.0
+JOB-0473,ETL Developer,Infosys,Remote,"Pandas, SQL",2026-08-10,Unknown,,,0.0,1.0
+JOB-0152,Junior Data Engineer,DataNova Pvt Ltd,Bengaluru,"AWS, Docker, Git",2026-08-20,Full-time,6.0,8.0,2.0,4.0
+JOB-0318,Data Analyst,Startup Labs,Mumbai,"Excel, SQL",2026-08-22,Internship,,,,
+JOB-0494,Business Analyst,Infosys,Hyderabad,"PostgreSQL, SQL",2026-08-30,Full-time,12.0,15.0,1.0,3.0
+JOB-0292,Senior Data Analyst,TCS,Hyderabad,"Airflow, Docker, PostgreSQL, SQL",2026-09-11,Full-time,6.0,6.0,,
+JOB-0234,Data Engineer,Tech Mahindra,Mumbai,"Airflow, Power BI",2026-08-10,Internship,12.0,15.0,,
+JOB-0011,Business Analyst,Infosys,Pune,"Docker, Power BI, Python",2026-07-31,Full-time,6.0,6.0,3.0,3.0
+JOB-0280,Python Developer,Startup Labs,Pune,"AWS, Excel, Spark",2026-09-13,Unknown,,,0.0,0.0
+JOB-0072,BI Developer,Infosys,Pune,"Power BI, SQL",2026-08-15,Unknown,12.0,15.0,6.0,10.0
+JOB-0253,Data Engineer,Tech Mahindra,Mumbai,"Git, SQL",2026-07-08,Full-time,6.0,6.0,0.0,1.0
+JOB-0093,Data Analyst,Tech Mahindra,Pune,"AWS, Git, PostgreSQL, SQL",2026-07-23,Full-time,6.0,8.0,1.0,3.0
+JOB-0350,Data Analyst,Persistent Systems,Pune,"Git, PostgreSQL, SQL",2026-07-14,Full-time,20.0,20.0,1.0,3.0
+JOB-0416,Senior Data Analyst,Zensar,Pune,"AWS, Airflow, Excel, Power BI",2026-07-13,Full-time,,,0.0,0.0
+JOB-0375,Data Analyst,Persistent Systems,Mumbai,"Airflow, Docker, Excel, Git, Python",2026-07-25,Contract,6.0,6.0,6.0,10.0
+JOB-0401,BI Developer,Capgemini,Nagpur,"Airflow, Pandas, Python, Spark, Tableau",2026-07-25,Full-time,12.0,15.0,0.0,0.0
+JOB-0193,Machine Learning Engineer,Capgemini,Bengaluru,"Excel, PostgreSQL, SQL",2026-08-13,Internship,20.0,20.0,6.0,10.0
+JOB-0258,Machine Learning Engineer,DataNova Pvt Ltd,Remote,"AWS, Docker, PostgreSQL, SQL",2026-08-31,Unknown,4.5,4.5,5.0,
+JOB-0340,Business Analyst,Tech Mahindra,Remote,"Excel, PostgreSQL",2026-07-09,Contract,20.0,20.0,,
+JOB-0073,ETL Developer,Wipro,Mumbai,"Docker, Pandas, Python, Spark, Tableau",2026-09-01,Unknown,20.0,20.0,2.0,4.0
+JOB-0196,BI Developer,DataNova Pvt Ltd,Mumbai,"Docker, Git, PostgreSQL, Python, SQL",2026-09-24,Full-time,6.0,6.0,0.0,0.0
+JOB-0484,Data Engineer,Persistent Systems,Pune,"Docker, Excel, Power BI, Spark, Tableau",2026-08-10,Internship,12.0,15.0,6.0,10.0
+JOB-0344,Data Engineer,Zensar,Pune,"Pandas, PostgreSQL, SQL",2026-07-05,Full-time,4.5,4.5,,
+JOB-0138,ETL Developer,Persistent Systems,Pune,"Excel, Git, Pandas, Python, Tableau",2026-09-07,Contract,6.0,6.0,0.0,0.0
+JOB-0261,Machine Learning Engineer,Unknown,Mumbai,"Docker, SQL",2026-07-22,Contract,,,0.0,1.0
+JOB-0039,BI Developer,TCS,Nagpur,"Git, Power BI, Python, SQL",2026-09-06,Full-time,6.0,8.0,0.0,1.0
+JOB-0463,Senior Data Analyst,Zensar,Mumbai,"Excel, Pandas",,Unknown,6.0,8.0,0.0,1.0
+JOB-0202,Data Engineer,Cognizant,Mumbai,"AWS, Git",2026-08-31,Internship,6.0,6.0,0.0,0.0
+JOB-0291,ETL Developer,Cognizant,Nagpur,"Airflow, Excel, Power BI",2026-08-27,Full-time,,,0.0,1.0
+JOB-0449,ETL Developer,TCS,Mumbai,"Excel, Python",2026-07-05,Full-time,,,2.0,4.0
+JOB-0252,Business Analyst,TCS,Pune,"AWS, Power BI, Tableau",2026-08-25,Contract,,,5.0,
+JOB-0113,Machine Learning Engineer,Cognizant,Mumbai,"AWS, Pandas, Spark",2026-08-31,Unknown,,,2.0,4.0
+JOB-0438,Data Analyst,Tech Mahindra,Mumbai,"Excel, Git",2026-08-11,Contract,8.0,8.0,6.0,10.0
+JOB-0184,Python Developer,TCS,Pune,"AWS, Docker, Excel, PostgreSQL, Power BI",2026-07-25,Full-time,6.0,6.0,1.0,3.0
+JOB-0153,Data Engineer,TCS,Remote,"AWS, Power BI, Spark",2026-08-14,Internship,,,5.0,
+JOB-0326,Python Developer,Zensar,Remote,"Excel, Pandas, Python",2026-09-29,Internship,4.5,4.5,6.0,10.0
+JOB-0192,Data Analyst,Wipro,Hyderabad,"AWS, Docker",2026-09-10,Full-time,20.0,20.0,0.0,0.0
+JOB-0045,Data Analyst,Persistent Systems,Pune,"AWS, Airflow, Docker, PostgreSQL, Power BI",2026-09-03,Internship,6.0,6.0,,
+JOB-0445,Python Developer,Zensar,Hyderabad,"AWS, Pandas",2026-09-11,Internship,20.0,20.0,6.0,10.0
+JOB-0276,Junior Data Engineer,Unknown,Bengaluru,"Pandas, Power BI, Python, SQL, Tableau",2026-07-25,Full-time,6.0,6.0,6.0,10.0
+JOB-0007,Machine Learning Engineer,Startup Labs,Nagpur,"AWS, Git, Power BI",2026-08-08,Internship,6.0,6.0,3.0,3.0
+JOB-0251,ETL Developer,Wipro,Pune,"AWS, Git, SQL, Spark",2026-07-04,Full-time,20.0,20.0,0.0,1.0
+JOB-0076,Data Analyst,Infosys,Pune,"Docker, Pandas, Python",2026-09-15,Full-time,6.0,8.0,1.0,3.0
+JOB-0001,Machine Learning Engineer,Zensar,Pune,"AWS, Git",,Full-time,6.0,6.0,0.0,0.0
+JOB-0429,Data Engineer,TCS,Bengaluru,"Pandas, Python, SQL, Spark",2026-08-16,Full-time,6.0,6.0,0.0,1.0
+JOB-0392,Machine Learning Engineer,Wipro,Pune,"Excel, Git, Spark, Tableau",,Unknown,,,,
+JOB-0433,ETL Developer,Infosys,Pune,"Airflow, Pandas, Python, Spark, Tableau",2026-09-02,Unknown,,,0.0,0.0
+JOB-0069,Data Analyst,Zensar,Mumbai,"AWS, Excel, Pandas",2026-08-30,Internship,,,0.0,0.0
+JOB-0168,Python Developer,Cognizant,Pune,"Airflow, Excel, SQL",2026-08-12,Contract,6.0,6.0,6.0,10.0
+JOB-0367,Python Developer,Wipro,Pune,"Docker, Tableau",2026-07-30,Full-time,6.0,6.0,5.0,
+JOB-0346,BI Developer,Accenture,Pune,"AWS, Excel, Power BI, Python",2026-07-17,Full-time,6.0,6.0,0.0,0.0
+JOB-0399,Data Engineer,Accenture,Pune,"Airflow, Docker, Excel",2026-09-01,Unknown,6.0,6.0,2.0,4.0
+JOB-0186,Data Analyst,Persistent Systems,Hyderabad,"Docker, Git, Tableau",2026-09-22,Contract,,,6.0,10.0
+JOB-0349,Data Analyst,Capgemini,Mumbai,"Docker, Pandas, Python, Tableau",2026-07-15,Full-time,6.0,6.0,5.0,
+JOB-0212,Data Analyst,Cognizant,Pune,"Docker, Excel",2026-08-12,Unknown,6.0,8.0,6.0,10.0
+JOB-0197,Junior Data Engineer,Accenture,Mumbai,"AWS, Git",2026-08-23,Full-time,,,,
+JOB-0176,Senior Data Analyst,Startup Labs,Pune,"AWS, Pandas, Spark",2026-08-11,Unknown,6.0,6.0,0.0,0.0
