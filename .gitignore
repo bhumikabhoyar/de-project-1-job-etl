@@ -4,3 +4,4 @@ __pycache__/
 logs/
 .envdata/raw/*.csv
 data/processed/*.csv
+data/rejected/
