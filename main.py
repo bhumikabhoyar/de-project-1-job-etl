@@ -1,6 +1,8 @@
 import logging
 import sys
+from src.ai_report import generate_report
 from pathlib import Path
+
 
 from src.extract import extract_csv
 from src.transform import transform
@@ -38,6 +40,11 @@ def main():
         valid.to_csv(CLEAN_PATH, index=False)
         load_to_sqlite(valid, DB_PATH)
         tracker.stats["rows_loaded"] = len(valid)
+
+        try:
+            generate_report(valid, rejected, tracker.stats)
+        except Exception:
+            logger.exception("Report generation failed (pipeline continues)")
 
         tracker.finish("SUCCESS")
         logger.info("Pipeline finished successfully")
