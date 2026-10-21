@@ -2,6 +2,8 @@ venv/
 __pycache__/
 *.db
 logs/
-.envdata/raw/*.csv
-data/processed/*.csv
+.env
+data/raw/
+data/processed/
 data/rejected/
+reports/
